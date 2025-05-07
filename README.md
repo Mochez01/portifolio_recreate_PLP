@@ -38,15 +38,8 @@ This portfolio website features:
 
 ## Live Demo
 
-To view the live demo of this portfolio:
+available at: `https://Mochez01.github.io/portifolio_recreate_PLP`
 
-1. Go to your GitHub repository
-2. Click on "Settings"
-3. Scroll down to "GitHub Pages" section
-4. Under "Source", select "main" branch
-5. Click "Save"
-6. Wait a few minutes for GitHub to build your site
-7. Your site will be available at: `https://[your-github-username].github.io/[repository-name]`
 
 ## Features
 
