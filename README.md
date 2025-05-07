@@ -38,7 +38,7 @@ This portfolio website features:
 
 ## Live Demo
 
-available at: `https://Mochez01.github.io/portifolio_recreate_PLP`
+available at: https://Mochez01.github.io/portifolio_recreate_PLP
 
 
 ## Features
