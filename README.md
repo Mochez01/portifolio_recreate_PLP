@@ -36,6 +36,10 @@ This portfolio website features:
 2. Open `index.html` in your web browser
 3. Explore the portfolio website
 
+## Live Demo
+
+View the live demo of this portfolio at: https://mochez01.github.io/portifolio_recreate_PLP/
+
 ## Features
 
 - Responsive navigation
